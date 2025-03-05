@@ -40,7 +40,8 @@ admin.example.com/api/
 ```
 
 ### 实时输出预览
-![扫描进度演示](https://via.placeholder.com/600x100?text=扫描进度+|+成功请求:+258次+|+敏感文件:+12个+|+运行时长:+18.7秒)
+![image](https://github.com/user-attachments/assets/e20de44f-ea8e-40a7-b355-0b99cc858cac)
+
 
 ## 📊 报告样本
 
@@ -90,5 +91,3 @@ CONFIG = {
 - CSV报告中文编码优化
 - 高危端口自动阻断机制
 
-**问题反馈**  
-提交至 [Issues](https://github.com/yourrepo/mist-scanner/issues)
